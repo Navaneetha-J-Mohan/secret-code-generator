@@ -1,0 +1,16 @@
+# Hide python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+#OS files
+.DS_Store
+Thumbs.db
+
+#VS Code
+.vscode/
+
+# Ignore virtual environment folder
+venv/
